@@ -47,7 +47,7 @@ python assessment_agent.py report --fresher "FRESH001"
 python assessment_agent.py list --fresher "FRESH001"
 ```
 
-## 📋 Requirements.txt
+## Requirements.txt
 ```
 # Core dependencies (for basic demo, these are optional)
 # For production integration:
