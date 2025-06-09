@@ -1,6 +1,6 @@
 # Assessment Agent CLI - Setup and Usage
 
-## 📁 Project Structure
+## Project Structure
 ```
 assessment-agent/
 ├── assessment_agent.py      # Main CLI application
@@ -10,7 +10,7 @@ assessment-agent/
 └── assessments.db          # SQLite database (created automatically)
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Installation
 ```bash
@@ -57,7 +57,7 @@ python assessment_agent.py list --fresher "FRESH001"
 # numpy>=1.21.0
 ```
 
-## 🎯 Demo Scenarios
+##  Demo Scenarios
 
 ### Scenario 1: New Fresher Assessment Flow
 ```bash
@@ -105,7 +105,7 @@ python assessment_agent.py list --fresher "DEMO001"
 - Fresher profile management
 - Historical data tracking
 
-## 🚀 Phase 1 Demonstration Points
+## Phase 1 Demonstration Points
 
 ### For Judges/Reviewers:
 1. **Run the CLI**: Shows working prototype with real functionality
@@ -135,7 +135,7 @@ python assessment_agent.py report --fresher "JUDGE001"
 python assessment_agent.py list
 ```
 
-## 🔮 Production Integration Path
+##  Production Integration Path
 
 ### Phase 2 Enhancements:
 1. **Real AI Integration**: Replace MockAI with OpenAI/LangChain
@@ -149,7 +149,7 @@ python assessment_agent.py list
 CLI Prototype → API Service → Multi-Agent System → Full Dashboard
 ```
 
-## 📊 Expected Demo Results
+##  Expected Demo Results
 
 ### Quiz Assessment:
 - Instant feedback on each question
@@ -166,10 +166,10 @@ CLI Prototype → API Service → Multi-Agent System → Full Dashboard
 - Identification of strengths and areas for growth
 - Actionable recommendations for continued learning
 
-## 🎉 Success Metrics for Phase 1
+##  Success Metrics for Phase 1
 
-1. **Functional Prototype**: ✅ Working CLI with all core features
-2. **AI Integration**: ✅ Intelligent assessment and feedback
-3. **Data Management**: ✅ Persistent storage and retrieval
-4. **User Experience**: ✅ Clear, actionable feedback
-5. **Scalability**: ✅ Modular architecture for future expansion
+1. **Functional Prototype**: Working CLI with all core features
+2. **AI Integration**: Intelligent assessment and feedback
+3. **Data Management**: Persistent storage and retrieval
+4. **User Experience**: Clear, actionable feedback
+5. **Scalability**: Modular architecture for future expansion
