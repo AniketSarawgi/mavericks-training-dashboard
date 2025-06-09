@@ -1,0 +1,49 @@
+[
+    {
+        "email": "abhi@gmail.com",
+        "name": "abhi",
+        "password": "Abhi@2623"
+    },
+    {
+        "email": "user2@gmail.com",
+        "name": "user2",
+        "password": "user@123"
+    },
+    {
+        "email": "user1@gmail.com",
+        "name": "user1",
+        "password": "user1@123",
+        "assigned_courses": [
+            {
+                "id": 1,
+                "name": "Python Basics",
+                "description": "Learn the basics of Python programming.",
+                "tasks": [
+                    "Complete the first module of Python Basics",
+                    "Submit the assignment for Python Basics",
+                    "Attend the Q&A session for Python Basics"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Machine Learning",
+                "description": "Introduction to machine learning concepts.",
+                "tasks": [
+                    "Complete the first module of Machine Learning",
+                    "Submit the assignment for Machine Learning",
+                    "Attend the Q&A session for Machine Learning"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Web Development",
+                "description": "Learn how to build websites using HTML, CSS, and JavaScript.",
+                "tasks": [
+                    "Complete the first module of Web Development",
+                    "Submit the assignment for Web Development",
+                    "Attend the Q&A session for Web Development"
+                ]
+            }
+        ]
+    }
+]

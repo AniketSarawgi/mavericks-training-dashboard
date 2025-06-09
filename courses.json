@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Python Basics",
+        "description": "Learn the basics of Python programming."
+    },
+    {
+        "id": 2,
+        "name": "Data Structures",
+        "description": "Understand data structures and algorithms."
+    },
+    {
+        "id": 3,
+        "name": "Machine Learning",
+        "description": "Introduction to machine learning concepts."
+    },
+    {
+        "id": 4,
+        "name": "Soft Skills Training",
+        "description": "Improve your communication and teamwork skills."
+    },
+    {
+        "id": 5,
+        "name": "Web Development",
+        "description": "Learn how to build websites using HTML, CSS, and JavaScript."
+    }
+]
