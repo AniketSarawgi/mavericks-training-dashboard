@@ -6,10 +6,10 @@ The repository follows a modular development approach with **four dedicated bran
  
 | Branch Name       | Purpose                                      |
 |-------------------|----------------------------------------------|
-| `onboarding-agent`| Manages fresher onboarding schedules         |
-| `assessment-agent`| Handles quizzes, coding scores, and feedback |
-| `profile-agent`   | Maintains and updates fresher profiles       |
-| `reporting-agent` | Generates comprehensive training reports     |
+| [`onboarding-agent`](https://github.com/AniketSarawgi/mavericks-training-dashboard/tree/onboarding_agent) | Manages fresher onboarding schedules         |
+| [`assessment-agent`](https://github.com/AniketSarawgi/mavericks-training-dashboard/tree/assessment-agent) | Handles quizzes, coding scores, and feedback |
+| [`profile-agent`](https://github.com/AniketSarawgi/mavericks-training-dashboard/tree/profile-agent)       | Maintains and updates fresher profiles       |
+| [`reporting-agent`](https://github.com/AniketSarawgi/mavericks-training-dashboard/tree/reporting-agent)   | Generates comprehensive training reports     |
  
 Each branch contains isolated functionality and respective code modules. These will be **merged into the `main` branch** once the web UI development is completed and integration is finalized.
 
