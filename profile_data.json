@@ -1,0 +1,12 @@
+[
+    {
+        "FresherID": "1",
+        "Name": "Subrat",
+        "Department": "IT",
+        "SkillSet": [
+            "Python",
+            " SQL"
+        ],
+        "TrainingStatus": "Completed"
+    }
+]
